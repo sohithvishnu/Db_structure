@@ -3,105 +3,182 @@
     "entity": "User",
     "value": "recreation",
     "relation": "has_trait",
-    "timestamp": "2025-08-05T23:11:17.866985",
+    "timestamp": "2025-08-05T23:30:35.976170",
     "summary": "Michel enjoys hiking and is looking forward to a solo trek in the Alps."
   },
   {
     "entity": "User",
     "value": "crowd preferences",
     "relation": "has_trait",
-    "timestamp": "2025-08-05T23:11:17.867001",
+    "timestamp": "2025-08-05T23:30:35.976182",
     "summary": "Michel dislikes crowds and prefers solo activities."
   },
   {
     "entity": "User",
     "value": "diet",
     "relation": "has_trait",
-    "timestamp": "2025-08-05T23:11:17.867007",
+    "timestamp": "2025-08-05T23:30:35.976186",
     "summary": "Michel follows a vegetarian diet."
   },
   {
     "entity": "User",
     "value": "mindfulness practices",
     "relation": "has_trait",
-    "timestamp": "2025-08-05T23:11:17.867011",
+    "timestamp": "2025-08-05T23:30:35.976189",
     "summary": "Michel meditates every morning as part of his daily routine."
   },
   {
     "entity": "User",
     "value": "childhood",
     "relation": "has_trait",
-    "timestamp": "2025-08-05T23:11:17.867014",
+    "timestamp": "2025-08-05T23:30:35.976192",
     "summary": "User was considered an unwanted child"
   },
   {
     "entity": "User",
     "value": "magical powers",
     "relation": "has_trait",
-    "timestamp": "2025-08-05T23:11:17.867017",
+    "timestamp": "2025-08-05T23:30:35.976195",
     "summary": "User possesses unique magical powers"
   },
   {
     "entity": "User",
     "value": "education",
     "relation": "has_trait",
-    "timestamp": "2025-08-05T23:11:17.867022",
+    "timestamp": "2025-08-05T23:30:35.976198",
     "summary": "User attends Hogwarts, a wizarding English boarding school"
   },
   {
     "entity": "User",
     "value": "parental relationship",
     "relation": "has_trait",
-    "timestamp": "2025-08-05T23:11:17.867026",
+    "timestamp": "2025-08-05T23:30:35.976201",
     "summary": "User's parents were powerful wizards with mysterious deaths"
   },
   {
     "entity": "User",
     "value": "friendships",
     "relation": "has_trait",
-    "timestamp": "2025-08-05T23:11:17.867030",
+    "timestamp": "2025-08-05T23:30:35.976204",
     "summary": "User forms close friendships at Hogwarts"
   },
   {
     "entity": "User",
     "value": "social network",
     "relation": "has_trait",
-    "timestamp": "2025-08-05T23:12:17.061572",
+    "timestamp": "2025-08-05T23:30:35.976207",
     "summary": "Sohith is friends with Michel"
   },
   {
     "entity": "User",
     "value": "location",
     "relation": "has_trait",
-    "timestamp": "2025-08-05T23:12:17.164333",
+    "timestamp": "2025-08-05T23:30:35.976210",
     "summary": "Sohith is new to the city"
   },
   {
     "entity": "User",
     "value": "favourite story",
     "relation": "has_trait",
-    "timestamp": "2025-08-05T23:14:25.453759",
+    "timestamp": "2025-08-05T23:30:35.976213",
     "summary": "User enjoys reading about Harry Potter's journey"
   },
   {
     "entity": "User",
     "value": "personality traits",
     "relation": "has_trait",
-    "timestamp": "2025-08-05T23:14:25.630986",
+    "timestamp": "2025-08-05T23:30:35.976216",
     "summary": "loyalty"
   },
   {
     "entity": "User",
     "value": "future plans",
     "relation": "has_trait",
-    "timestamp": "2025-08-05T23:14:25.702185",
+    "timestamp": "2025-08-05T23:30:35.976218",
     "summary": "None mentioned"
   },
   {
     "entity": "User",
     "value": "beliefs",
     "relation": "has_trait",
-    "timestamp": "2025-08-05T23:14:25.771809",
+    "timestamp": "2025-08-05T23:30:35.976221",
     "summary": "User may value bravery, loyalty, and friendship as important life lessons"
+  },
+  {
+    "entity": "Michel",
+    "value": "friendship",
+    "relation": "has_trait",
+    "timestamp": "2025-08-05T23:30:35.976225",
+    "summary": "Sohith is friends with Michel and they grew up together."
+  },
+  {
+    "entity": "Michel",
+    "value": "personality trait",
+    "relation": "has_trait",
+    "timestamp": "2025-08-05T23:30:35.976228",
+    "summary": "Sohith is described as an amazing student"
+  },
+  {
+    "entity": "Michel",
+    "value": "family",
+    "relation": "has_trait",
+    "timestamp": "2025-08-05T23:30:35.976231",
+    "summary": "Mac's parents are of Swedish origin, while he was born in India."
+  },
+  {
+    "entity": "Michel",
+    "value": "cultural background",
+    "relation": "has_trait",
+    "timestamp": "2025-08-05T23:30:35.976234",
+    "summary": "Mac has an Indian birthplace and Swedish ancestry."
+  },
+  {
+    "entity": "Harry",
+    "value": "family background",
+    "relation": "has_trait",
+    "timestamp": "2025-08-05T23:30:42.741706",
+    "summary": "User had a difficult childhood with neglectful and abusive Dursleys, but found love and acceptance at Hogwarts."
+  },
+  {
+    "entity": "Harry",
+    "value": "values",
+    "relation": "has_trait",
+    "timestamp": "2025-08-05T23:30:42.856717",
+    "summary": "User values friendship, loyalty, and love above all else."
+  },
+  {
+    "entity": "Harry",
+    "value": "personality traits",
+    "relation": "has_trait",
+    "timestamp": "2025-08-05T23:30:42.963071",
+    "summary": "User is resourceful, determined, and brave in the face of adversity."
+  },
+  {
+    "entity": "Harry",
+    "value": "future plans",
+    "relation": "has_trait",
+    "timestamp": "2025-08-05T23:30:43.068504",
+    "summary": "User's future plans are not explicitly stated, but implies a desire to move forward with their life and leave the past behind."
+  },
+  {
+    "entity": "Harry",
+    "value": "beliefs",
+    "relation": "has_trait",
+    "timestamp": "2025-08-05T23:30:43.179060",
+    "summary": "User believes that love and relationships are more powerful than magic in saving them from danger."
+  },
+  {
+    "entity": "Harry",
+    "value": "emotional scars",
+    "relation": "has_trait",
+    "timestamp": "2025-08-05T23:30:43.285826",
+    "summary": "User has emotional scars from losing loved ones, including Sirius and Dumbledore, but is determined to move forward."
+  },
+  {
+    "entity": "Harry",
+    "value": "power source",
+    "relation": "has_trait",
+    "timestamp": "2025-08-05T23:30:43.392966",
+    "summary": "User discovered they have a piece of Voldemort's soul inside them, making them the key to defeating the Dark Lord."
   }
 ]

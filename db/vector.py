@@ -25,7 +25,14 @@ class VectorIndex:
         self.vectors.append(vec_np)
         self.metadata.append(meta)
 
-    def similarity_search(self, text, k=5):
-        query_vec = np.array(self.embedder.embed_query(text)).astype("float32").reshape(1, -1)
+    def similarity_search(self, query, k=5):
+        if self.index is None or self.index.ntotal == 0:
+            return []
+        query_vec = self.embedder.embed_query(query)
         D, I = self.index.search(query_vec, k)
-        return [self.metadata[i] for i in I[0] if i < len(self.metadata)]
+        results = []
+        for idx in I[0]:
+            if idx < len(self.metadata):
+                results.append(self.metadata[idx])
+        return results
+
