@@ -1,0 +1,30 @@
+[
+  {
+    "entity": "Michel",
+    "value": "personal interests",
+    "relation": "has_trait",
+    "timestamp": "2025-08-05T18:12:51.955226",
+    "summary": "Enjoys hiking"
+  },
+  {
+    "entity": "Michel",
+    "value": "dislikes",
+    "relation": "has_trait",
+    "timestamp": "2025-08-05T18:12:52.011657",
+    "summary": "Crowds"
+  },
+  {
+    "entity": "Michel",
+    "value": "lifestyle habits",
+    "relation": "has_trait",
+    "timestamp": "2025-08-05T18:12:52.066025",
+    "summary": "Vegetarian diet, morning meditation"
+  },
+  {
+    "entity": "Michel",
+    "value": "outdoorsy",
+    "relation": "has_trait",
+    "timestamp": "2025-08-05T18:12:52.126532",
+    "updated": true
+  }
+]
